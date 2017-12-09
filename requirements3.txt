@@ -1,0 +1,3 @@
+# These will be installed to the python 3 environment
+numpy
+matplotlib
